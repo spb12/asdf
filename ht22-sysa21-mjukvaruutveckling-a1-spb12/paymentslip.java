@@ -46,7 +46,6 @@ public class paymentslip {
         public static double calculateNetSalary (int hourlyRate, int hours, double taxMultiplier){
             return (hourlyRate*hours*taxMultiplier);
     }
-    // test
 
 }
 
